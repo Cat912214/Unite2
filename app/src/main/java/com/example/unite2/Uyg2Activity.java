@@ -1,10 +1,10 @@
 package com.example.unite2;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
-public class Uyg4Activity extends AppCompatActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class Uyg2Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
