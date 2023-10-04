@@ -6,4 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".activity_5">
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitEnd"
+        app:srcCompat="@drawable/format_webp"
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="101dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
