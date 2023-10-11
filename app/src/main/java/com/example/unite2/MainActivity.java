@@ -24,6 +24,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void uyg9Goster(View view) {
+        Intent i = new Intent( MainActivity.this, Uyg_9.class);
+        startActivity(i);
+    }
+
     public void ss64Göster(View view) {
         Intent i = new Intent( MainActivity.this, SS64Activity.class);
         startActivity(i);
