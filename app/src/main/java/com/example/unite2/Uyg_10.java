@@ -4,11 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Activity_xml extends AppCompatActivity {
+public class Uyg_10 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_xml2);
+        setContentView(R.layout.activity_uyg10);
     }
 }
